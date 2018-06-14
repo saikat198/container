@@ -6,6 +6,7 @@ public class TestingGit {
 		// TODO Auto-generated method stub
 		System.out.println("this is the first programme");
 		System.out.println("hey there this is the second commit");
+		//adding this comment through github
 	}
 
 }
