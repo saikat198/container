@@ -1,4 +1,4 @@
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
+
 
 public class TestingGit {
 
@@ -9,6 +9,7 @@ public class TestingGit {
 		// adding another comment from eclips
 		// adding this comment through github
 		// resolving conflict
+		// addding comment to trigger conflict
 
 	}
 
