@@ -7,8 +7,13 @@ public class TestingGit {
 		System.out.println("this is the first programme");
 		System.out.println("hey there this is the second commit");
 		// adding another comment from eclips
-		//adding this comment through github
-		//resolving conflict
+		// adding this comment through github
+		// resolving conflict
+
+	}
+
+	public static void sss() {
+
 	}
 
 }
