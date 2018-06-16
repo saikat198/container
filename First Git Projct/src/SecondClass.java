@@ -1,4 +1,4 @@
 
-public class SecondClass {
-
+public class SecondClass 
+    System.out.println("");
 }
