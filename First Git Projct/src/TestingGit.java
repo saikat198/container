@@ -14,7 +14,10 @@ public class TestingGit {
 	}
 
 	public static void sss() {
-
+		String[] arr= new Srring[];
+		for (String s: arr)
+		{
+		}
 	}
 
 }
