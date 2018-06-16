@@ -1,4 +1,4 @@
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
+
 
 public class TestingGit {
 
@@ -6,7 +6,7 @@ public class TestingGit {
 		// TODO Auto-generated method stub
 		System.out.println("this is the first programme");
 		System.out.println("hey there this is the second commit");
-		// adding another comment from eclips
+		// addding comment to trigger conflict
 		//adding this comment through github
 		//resolving conflict
 	}
