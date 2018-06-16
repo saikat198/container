@@ -10,6 +10,7 @@ public class TestingGit {
 		// adding this comment through github
 		// resolving conflict
 		// addding comment to trigger conflict
+		//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 	}
 
